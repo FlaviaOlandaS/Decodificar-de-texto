@@ -23,3 +23,7 @@ O texto original será exibido na área de resultado.
 HTML5: Para estruturar o conteúdo da aplicação.
 CSS3: Para estilizar a interface e garantir a responsividade.
 JavaScript: Para implementar a lógica de codificação e decodificação, além de manipular o DOM.
+
+# Meu Projeto
+
+Veja a versão ao vivo do projeto [aqui](https://seu-projeto.vercel.app).
