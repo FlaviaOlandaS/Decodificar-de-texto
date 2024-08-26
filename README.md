@@ -26,4 +26,4 @@ JavaScript: Para implementar a lógica de codificação e decodificação, além
 
 # Meu Projeto
 
-Veja a versão ao vivo do projeto [aqui](https://seu-projeto.vercel.app).
+Veja a versão ao vivo do projeto [aqui](https://vercel.com/flavias-projects-9f655419/decodificador-de-texto).
